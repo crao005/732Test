@@ -1,0 +1,9 @@
+class Test{
+	int m1() {
+		return 0;
+	}
+
+	String m2(String s){
+		return s;
+	}
+}
